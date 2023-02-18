@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #transcription-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 400px;
+    height: 100%;
+    background-color: #f2f2f2;
+    border-left: 1px solid #ccc;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
+  #transcription-text {
+    margin-top: 20px;
+  }
+  
+  #transcription-text div {
+    margin-bottom: 10px;
+  }
+  

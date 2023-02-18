@@ -1,0 +1,23 @@
+{
+    "name": "Zoom Add-On App",
+    "version": "1.0.0",
+    "description": "A custom add-on app for Zoom",
+    "platform": {
+      "sdkVersion": "2.0.0"
+    },
+    "app": {
+      "navigation": {
+        "tab": {
+          "title": "My App"
+        }
+      },
+      "meetingInfo": [
+        "user_name",
+        "user_email",
+        "meeting_topic",
+        "meeting_id",
+        "meeting_start_time"
+      ]
+    }
+  }
+  
