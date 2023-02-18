@@ -5,12 +5,21 @@
 ├── src/
 
 │   ├── index.html
+
 │   ├── index.js
+
 │   ├── style.css
+
 │   └── api.js
+
 │
+
 ├── server/
+
 │   ├── server.js
+
 │   └── package.json
+
 │
+
 └── manifest.json
